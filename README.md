@@ -48,7 +48,7 @@ PostgreSQL · MySQL · Supabase · Git · GitHub · Docker · RESTful APIs · Ve
 - Remote client contracts
 - Software and data engineering internships
 
-📄 [Full Resume (PDF)](https://github.com/tanzeela-16/tanzeela-16/blob/main/Tanzeela_Memon_Resume.pdf)
+📄 [Full Resume (PDF)](https://github.com/tanzeela-16/tanzeela-16/blob/main/Tanzeela_Memon_FullStack_Resume)
 ) · 🔗 [Professional timeline on LinkedIn](https://linkedin.com/in/tanzeelamemon)
 
 ---
