@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanzeela%20Memon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%26%20AI%20Developer&descSize=18&descAlignY=58" width="100%" />
+<h1 align="center">Hi, I'm Tanzeela Memon 👋</h1>
+
+<p align="center"><b>Full-Stack Software Engineer &amp; AI Developer</b></p>
 
 <div align="center">
 
@@ -38,12 +40,13 @@ Built with **Python, FastAPI, TensorFlow, Transformers, React, and Tailwind CSS*
 
 ## 🚀 Projects
 
-| Project | Description | Tech | Link |
+| Project | What it does | Tech | Link |
 |---|---|---|---|
-| **Multimodal AI Stock Predictor** (FYP) | Combines price history, candlestick chart images and news sentiment into one BUY / HOLD / SELL signal | Python, FastAPI, TensorFlow, React | [Repo](https://github.com/tanzeela-16/Multimodal-AIStock-Predictor) |
-| **Personal Portfolio** | My developer portfolio website | React, Vercel | [Repo](https://github.com/tanzeela-16/Tanzeela_Portfolio) · [Live](https://tanzeela-portfolio-mu.vercel.app) |
-| **Project 3 name** | One line about what it does | Tech used | [Repo](https://github.com/tanzeela-16/REPO-3) |
-| **Project 4 name** | One line about what it does | Tech used | [Repo](https://github.com/tanzeela-16/REPO-4) |
+| **Multimodal Stock AI** (FYP) | Forecasting, news sentiment and candlestick pattern recognition combined into one BUY / HOLD / SELL signal | Python, FastAPI, TensorFlow, FinBERT, React | [Repo](https://github.com/tanzeela-16/Multimodal-AIStock-Predictor) |
+| **AI Data Analyst** | AI-powered data analysis and automation workflows | FastAPI, Next.js, LangChain | [Repo](https://github.com/tanzeela-16/ai-data-analyst.git) |
+| **RAG Chatbot for Docs** | Chatbot that answers questions from your own documents using retrieval-augmented generation | LangChain, Vector DB, Python | [Repo](https://github.com/tanzeela-16/RAG_Chatbot_ComapnyDocs.git) |
+| **Velocity Prop** | Trading and analytics platform | [Live site](https://velocityprop.com) |
+| **Vexa Chauffeurs** | London executive travel platform: quote and booking flows, fleet browsing, airport concierge, by-the-hour and one-way transfers | [Live site](https://vexachauffeurs.co.uk) |
 
 ---
 
@@ -91,5 +94,3 @@ LangChain · Hugging Face · ChromaDB · FAISS
 ## 📫 Let's Connect
 
 📧 [tanzeelamemon167@gmail.com](mailto:tanzeelamemon167@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/tanzeelamemon) · 🌐 [Portfolio](https://tanzeela-portfolio-mu.vercel.app)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
