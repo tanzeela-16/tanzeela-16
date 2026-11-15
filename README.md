@@ -38,32 +38,12 @@ Built with **Python, FastAPI, TensorFlow, Transformers, React, and Tailwind CSS*
 
 ## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/tanzeela-16/Multimodal-AIStock-Predictor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=Multimodal-AIStock-Predictor&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/tanzeela-16/Tanzeela_Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=Tanzeela_Portfolio&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/tanzeela-16/REPO-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=REPO-3&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/tanzeela-16/REPO-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=REPO-4&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **Multimodal AI Stock Predictor** (FYP) | Combines price history, candlestick chart images and news sentiment into one BUY / HOLD / SELL signal | Python, FastAPI, TensorFlow, React | [Repo](https://github.com/tanzeela-16/Multimodal-AIStock-Predictor) |
+| **Personal Portfolio** | My developer portfolio website | React, Vercel | [Repo](https://github.com/tanzeela-16/Tanzeela_Portfolio) · [Live](https://tanzeela-portfolio-mu.vercel.app) |
+| **Project 3 name** | One line about what it does | Tech used | [Repo](https://github.com/tanzeela-16/REPO-3) |
+| **Project 4 name** | One line about what it does | Tech used | [Repo](https://github.com/tanzeela-16/REPO-4) |
 
 ---
 
