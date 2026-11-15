@@ -1,20 +1,69 @@
-<h1 align="center">Hi there, I'm Tanzeela Memon 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tanzeela%20Memon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%26%20AI%20Developer&descSize=18&descAlignY=58" width="100%" />
 
-<p align="center">
-  <b>Full-Stack Software Engineer & AI Developer</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/tanzeelamemon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tanzeelamemon167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/tanzeela-16"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;Developing+intelligent+AI+%26+ML+pipelines;Turning+complex+requirements+into+production+software;Open+to+opportunities" alt="Typing animation" />
+
+<br/>
+
+<a href="https://tanzeela-portfolio-mu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tanzeelamemon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tanzeelamemon167@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tanzeela-16&label=Profile+views&color=0e75b6&style=flat-square" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Full-Stack Software Engineer and AI Developer with 1 year of cumulative experience bridging robust web architecture, intelligent machine learning pipelines, and financial-tech solutions. I focus on building scalable applications and data-driven systems that turn complex requirements into production-ready software.
+Full-Stack Software Engineer and AI Developer with 1 year of cumulative experience bridging robust web architecture, intelligent machine learning pipelines, and financial-tech solutions. I build scalable applications and data-driven systems that turn complex requirements into production-ready software.
+
+📄 [Resume](https://github.com/tanzeela-16/tanzeela-16/blob/main/Tanzeela_Memon_FullStack_Resume.pdf) · 🌐 [Portfolio](https://tanzeela-portfolio-mu.vercel.app) · 🔗 [LinkedIn](https://linkedin.com/in/tanzeelamemon)
+
+---
+
+## 🎓 Final Year Project
+
+**[Multimodal AI Stock Predictor](https://github.com/tanzeela-16/Multimodal-AIStock-Predictor)** is my FYP: a full-stack platform that combines price history (LSTM/GRU ensemble), candlestick chart images (CNN), and financial news sentiment (FinBERT-based ensemble) into one BUY / HOLD / SELL signal, with support for US stocks, crypto, and the Pakistan Stock Exchange.
+
+Built with **Python, FastAPI, TensorFlow, Transformers, React, and Tailwind CSS**.
+
+[![View FYP](https://img.shields.io/badge/View_FYP_Repository-181717?style=for-the-badge&logo=github)](https://github.com/tanzeela-16/Multimodal-AIStock-Predictor)
+
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/tanzeela-16/Multimodal-AIStock-Predictor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=Multimodal-AIStock-Predictor&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/tanzeela-16/Tanzeela_Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=Tanzeela_Portfolio&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/tanzeela-16/REPO-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=REPO-3&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/tanzeela-16/REPO-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanzeela-16&repo=REPO-4&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,19 +73,15 @@ Full-Stack Software Engineer and AI Developer with 1 year of cumulative experien
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nodejs,express,fastapi" />
 
-Python · JavaScript (ES6+) · TypeScript · React · Next.js · Node.js · Express · FastAPI
-
 **AI & Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
 
-PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Vector Databases (ChromaDB, FAISS) · Pandas · NumPy · SQL
+LangChain · Hugging Face · ChromaDB · FAISS
 
 **Databases & Tools**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,git,github,docker,vercel" />
-
-PostgreSQL · MySQL · Supabase · Git · GitHub · Docker · RESTful APIs · Vercel
 
 ---
 
@@ -48,18 +93,23 @@ PostgreSQL · MySQL · Supabase · Git · GitHub · Docker · RESTful APIs · Ve
 - Remote client contracts
 - Software and data engineering internships
 
-📄 [Full Resume (PDF)](https://github.com/tanzeela-16/tanzeela-16/blob/62ede9731f8de9e2a73b86b07a9931e32c75f7c4/Tanzeela_Memon_FullStack_Resume.pdf) · 🔗 [Professional timeline on LinkedIn](https://linkedin.com/in/tanzeelamemon)
+📄 [Full Resume (PDF)](https://github.com/tanzeela-16/tanzeela-16/blob/main/Tanzeela_Memon_FullStack_Resume.pdf) · 🔗 [Professional timeline on LinkedIn](https://linkedin.com/in/tanzeelamemon)
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Activity
 
-Check out my pinned repositories below to see my work.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanzeela-16&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeela-16&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** [tanzeelamemon167@gmail.com](mailto:tanzeelamemon167@gmail.com)
-- 💻 **GitHub:** [@tanzeela-16](https://github.com/tanzeela-16)
-- 🔗 **LinkedIn:** [Tanzeela Memon](https://linkedin.com/in/tanzeelamemon)
+📧 [tanzeelamemon167@gmail.com](mailto:tanzeelamemon167@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/tanzeelamemon) · 🌐 [Portfolio](https://tanzeela-portfolio-mu.vercel.app)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
