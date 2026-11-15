@@ -43,10 +43,10 @@ Built with **Python, FastAPI, TensorFlow, Transformers, React, and Tailwind CSS*
 | Project | What it does | Tech | Link |
 |---|---|---|---|
 | **Multimodal Stock AI** (FYP) | Forecasting, news sentiment and candlestick pattern recognition combined into one BUY / HOLD / SELL signal | Python, FastAPI, TensorFlow, FinBERT, React | [Repo](https://github.com/tanzeela-16/Multimodal-AIStock-Predictor) |
-| **AI Data Analyst** | AI-powered data analysis and automation workflows | FastAPI, Next.js, LangChain | [Repo](https://github.com/tanzeela-16/ai-data-analyst.git) |
-| **RAG Chatbot for Docs** | Chatbot that answers questions from your own documents using retrieval-augmented generation | LangChain, Vector DB, Python | [Repo](https://github.com/tanzeela-16/RAG_Chatbot_ComapnyDocs.git) |
-| **Velocity Prop** | Trading and analytics platform | [Live site](https://velocityprop.com) |
-| **Vexa Chauffeurs** | London executive travel platform: quote and booking flows, fleet browsing, airport concierge, by-the-hour and one-way transfers | [Live site](https://vexachauffeurs.co.uk) |
+| **AI Data Analyst** | AI-powered data analysis and automation workflows | FastAPI, Next.js, LangChain | [Repo](https://github.com/tanzeela-16/ai-data-analyst) |
+| **RAG Chatbot for Docs** | Chatbot that answers questions from your own documents using retrieval-augmented generation | LangChain, Vector DB, Python | [Repo](https://github.com/tanzeela-16/RAG_Chatbot_ComapnyDocs) |
+| **Velocity Prop** | Trading and analytics platform | Full-stack web | [Live site](https://velocityprop.com) |
+| **Vexa Chauffeurs** | London executive travel platform: quote and booking flows, fleet browsing, airport concierge, by-the-hour and one-way transfers | Full-stack web | [Live site](https://vexachauffeurs.co.uk) |
 
 ---
 
@@ -77,17 +77,6 @@ LangChain · Hugging Face · ChromaDB · FAISS
 - Software and data engineering internships
 
 📄 [Full Resume (PDF)](https://github.com/tanzeela-16/tanzeela-16/blob/main/Tanzeela_Memon_FullStack_Resume.pdf) · 🔗 [Professional timeline on LinkedIn](https://linkedin.com/in/tanzeelamemon)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanzeela-16&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeela-16&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
